@@ -19,7 +19,7 @@
 
 $config = array(
 	// directories & files
-	'server_path' => '', // path to the server directory (same directory where config file is located)
+	'server_path' => 'C:/vcpkg/canary', // path to the server directory (same directory where config file is located)
 
 	/**
 	 * Environment Setting
